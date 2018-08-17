@@ -1,0 +1,8 @@
+{
+  "name": "jsonify",
+  "description": "Parse JSON asynchronously",
+  "version": "1.0.0",
+  "author": "François Ubald Brien <ubald@ubaldesign.com>",
+  "main": "./lib/jsonify.js",
+  "license": "MIT"
+}
